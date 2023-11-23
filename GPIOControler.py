@@ -29,7 +29,7 @@ class GPIOController:
         self.activate_light(17)
 
     def activate_orange_lights(self):
-        print("blue light")
+        print("orange light")
         self.activate_light(17)
 
     def activate_red_lights(self):
