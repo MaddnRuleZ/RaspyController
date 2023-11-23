@@ -9,7 +9,7 @@ class GPIOController:
         # GPIO.setup(18, GPIO.OUT)
 
     def lights_on_off(self):
-        print("blue light")
+        print("on off Light")
         self.activate_light(17)
 
     def activate_light_blue_lights(self):
